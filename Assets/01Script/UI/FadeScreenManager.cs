@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class FadeScreenManager : MonoBehaviour
 {
     [SerializeField] private Image _fadeImage;
-    [SerializeField] private BoolEventChannelSO _fadeEventChannel;
+    [SerializeField] private BoolEventChannelSO _fadeEventChannel, _saveOrderChannel, _loadOrderChannel;
         
     private readonly int _valueHash = Shader.PropertyToID("_Value");
     private void Awake()
@@ -26,6 +26,17 @@ public class FadeScreenManager : MonoBehaviour
             
         _fadeImage.material.SetFloat(_valueHash, startValue);
 
-        _fadeImage.material.DOFloat(fadeValue, _valueHash, 0.8f);
+        if (isFadeIn)
+        {
+            _loadOrderChannel.RaiseEvent(false); //페이드인이면 데이터 로드부터
+        }
+        
+        var tweenCore = _fadeImage.material.DOFloat(fadeValue, _valueHash, 0.8f);
+
+        if (isFadeIn == false)
+        {
+            tweenCore.OnComplete(()=> _saveOrderChannel.RaiseEvent(false));
+        }
+        
     }
 }

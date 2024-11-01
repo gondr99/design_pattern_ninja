@@ -4,7 +4,6 @@ using UnityEngine;
 
 public abstract class Enemy : Entity
 {
-    public Player player;
 
     [SerializeField] protected float _sightRange = 10f, _wallCheckRange = 1f;
     [SerializeField] protected LayerMask _whatIsPlayer, _whatIsObstacle;
@@ -21,7 +20,7 @@ public abstract class Enemy : Entity
         return Physics2D.Raycast(transform.position, transform.right, _wallCheckRange, _whatIsObstacle);
     }
 
-    private void OnDrawGizmos()
+    protected virtual void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.red;
         Gizmos.DrawLine(transform.position, transform.position + transform.right * _sightRange);

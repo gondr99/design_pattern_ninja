@@ -26,6 +26,15 @@ public class Bomb : MonoBehaviour
         }
     }
 
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("Player"))
+        {
+            _canExplosion = false;
+            TriggerExplosion();
+        }
+    }
+
     private void TriggerExplosion()
     {
         _animator.SetTrigger(_triggerParam.hashValue);
