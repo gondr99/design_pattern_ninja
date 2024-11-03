@@ -277,6 +277,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _bossStateChannel: {fileID: 11400000, guid: 9153a22333286864b8d9611416d4e295, type: 2}
+  _delayTime: 1
 --- !u!61 &345253972
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1379,6 +1380,8 @@ MonoBehaviour:
   - rid: 4434428321680589615
   - rid: 4434428322886189056
   - rid: 4434428322886189057
+  - rid: 9172106286565163141
+  - rid: 9172106286565163746
   references:
     version: 2
     RefIds:
@@ -1414,6 +1417,22 @@ MonoBehaviour:
           m_Value1: 5704323958411484871
         Name: EntityAnimator
         m_Value: {fileID: 681220570}
+    - rid: 9172106286565163141
+      type: {class: 'BlackboardVariable`1[[UnityEngine.Transform, UnityEngine.CoreModule]]', ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 1168474669345731811
+          m_Value1: 16915198186946609401
+        Name: Target
+        m_Value: {fileID: 252069281873900307}
+    - rid: 9172106286565163746
+      type: {class: 'BlackboardVariable`1[[EntityRenderer, Assembly-CSharp]]', ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 7181758722007840351
+          m_Value1: 11858584769727815204
+        Name: Renderer
+        m_Value: {fileID: 681220569}
 --- !u!114 &1576800919
 MonoBehaviour:
   m_ObjectHideFlags: 0
