@@ -1,0 +1,5791 @@
+fileFormatVersion: 2
+guid: 4c22c2759b72e5645916d3d455cc189b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8592017390758352872
+    second: AncientBossSheet 1_0
+  - first:
+      213: -9141219265132260225
+    second: AncientBossSheet 1_1
+  - first:
+      213: -2770133670557339452
+    second: AncientBossSheet 1_2
+  - first:
+      213: 7633414698649513232
+    second: AncientBossSheet 1_3
+  - first:
+      213: 5099452047580341239
+    second: AncientBossSheet 1_4
+  - first:
+      213: 3423241119925563432
+    second: AncientBossSheet 1_5
+  - first:
+      213: 5101744284796319954
+    second: AncientBossSheet 1_6
+  - first:
+      213: 6676364197035073992
+    second: AncientBossSheet 1_7
+  - first:
+      213: -7632912350584330511
+    second: AncientBossSheet 1_8
+  - first:
+      213: 169659541395791017
+    second: AncientBossSheet 1_9
+  - first:
+      213: 8161807051367332890
+    second: AncientBossSheet 1_10
+  - first:
+      213: -3968619224043856753
+    second: AncientBossSheet 1_11
+  - first:
+      213: -311927576576996558
+    second: AncientBossSheet 1_12
+  - first:
+      213: -7449913687671303746
+    second: AncientBossSheet 1_13
+  - first:
+      213: 5532571577734041071
+    second: AncientBossSheet 1_14
+  - first:
+      213: 2824484458817991467
+    second: AncientBossSheet 1_15
+  - first:
+      213: 3975942667842571114
+    second: AncientBossSheet 1_16
+  - first:
+      213: 8438033074539776953
+    second: AncientBossSheet 1_17
+  - first:
+      213: -7282482493898829839
+    second: AncientBossSheet 1_18
+  - first:
+      213: -4227144925788504848
+    second: AncientBossSheet 1_19
+  - first:
+      213: 5897495349143111959
+    second: AncientBossSheet 1_20
+  - first:
+      213: 5847012371592756237
+    second: AncientBossSheet 1_21
+  - first:
+      213: -7634315237014582176
+    second: AncientBossSheet 1_22
+  - first:
+      213: 6799943313011217662
+    second: AncientBossSheet 1_23
+  - first:
+      213: 5170619009005354511
+    second: AncientBossSheet 1_24
+  - first:
+      213: -4154884708461826139
+    second: AncientBossSheet 1_25
+  - first:
+      213: 8537543336442024137
+    second: AncientBossSheet 1_26
+  - first:
+      213: 1379522753293486668
+    second: AncientBossSheet 1_27
+  - first:
+      213: 6289374974605801293
+    second: AncientBossSheet 1_28
+  - first:
+      213: 8433939552681314516
+    second: AncientBossSheet 1_29
+  - first:
+      213: -9078014589904692452
+    second: AncientBossSheet 1_30
+  - first:
+      213: -730418060797060759
+    second: AncientBossSheet 1_31
+  - first:
+      213: -834867293243100597
+    second: AncientBossSheet 1_32
+  - first:
+      213: -8232888975082756273
+    second: AncientBossSheet 1_33
+  - first:
+      213: -884290047048763751
+    second: AncientBossSheet 1_34
+  - first:
+      213: -3874283655329899314
+    second: AncientBossSheet 1_35
+  - first:
+      213: -913804552694536807
+    second: AncientBossSheet 1_36
+  - first:
+      213: 2521298664565874661
+    second: AncientBossSheet 1_37
+  - first:
+      213: -8002760353533430157
+    second: AncientBossSheet 1_38
+  - first:
+      213: 2466645644511996883
+    second: AncientBossSheet 1_39
+  - first:
+      213: 5949983966821455907
+    second: AncientBossSheet 1_40
+  - first:
+      213: -8986398639428840190
+    second: AncientBossSheet 1_41
+  - first:
+      213: -5004454722082223685
+    second: AncientBossSheet 1_42
+  - first:
+      213: 2897638951832347298
+    second: AncientBossSheet 1_43
+  - first:
+      213: 6298296045619463194
+    second: AncientBossSheet 1_44
+  - first:
+      213: -8313526196277344959
+    second: AncientBossSheet 1_45
+  - first:
+      213: 9122909881012420200
+    second: AncientBossSheet 1_46
+  - first:
+      213: 573603559454920654
+    second: AncientBossSheet 1_47
+  - first:
+      213: 7022702026619219615
+    second: AncientBossSheet 1_48
+  - first:
+      213: -2384244964084197925
+    second: AncientBossSheet 1_49
+  - first:
+      213: 2608061242382927339
+    second: AncientBossSheet 1_50
+  - first:
+      213: 1840775854968624903
+    second: AncientBossSheet 1_51
+  - first:
+      213: -8479070754527417833
+    second: AncientBossSheet 1_52
+  - first:
+      213: 343459638280636259
+    second: AncientBossSheet 1_53
+  - first:
+      213: 1233155393843126144
+    second: AncientBossSheet 1_54
+  - first:
+      213: 2150753901945455646
+    second: AncientBossSheet 1_55
+  - first:
+      213: -5383915087491843439
+    second: AncientBossSheet 1_56
+  - first:
+      213: -4886783801450323134
+    second: AncientBossSheet 1_57
+  - first:
+      213: -540245668752164450
+    second: AncientBossSheet 1_58
+  - first:
+      213: 5960022362136947065
+    second: AncientBossSheet 1_59
+  - first:
+      213: 2106367931464402144
+    second: AncientBossSheet 1_60
+  - first:
+      213: 4772607298353674640
+    second: AncientBossSheet 1_61
+  - first:
+      213: 8995185788379060035
+    second: AncientBossSheet 1_62
+  - first:
+      213: 1179077371092843010
+    second: AncientBossSheet 1_63
+  - first:
+      213: 2456400680087021413
+    second: AncientBossSheet 1_64
+  - first:
+      213: -2477691820998714966
+    second: AncientBossSheet 1_65
+  - first:
+      213: 2945035206857098704
+    second: AncientBossSheet 1_66
+  - first:
+      213: -8100741081644325054
+    second: AncientBossSheet 1_67
+  - first:
+      213: 6767230173913238170
+    second: AncientBossSheet 1_68
+  - first:
+      213: -2539913590736980803
+    second: AncientBossSheet 1_69
+  - first:
+      213: -9163772731922034615
+    second: AncientBossSheet 1_70
+  - first:
+      213: 7091869887508827352
+    second: AncientBossSheet 1_71
+  - first:
+      213: -3023104871315151641
+    second: AncientBossSheet 1_72
+  - first:
+      213: -2477866533478029820
+    second: AncientBossSheet 1_73
+  - first:
+      213: 5126194521212983007
+    second: AncientBossSheet 1_74
+  - first:
+      213: -5346986409120573632
+    second: AncientBossSheet 1_75
+  - first:
+      213: -7475598320333122382
+    second: AncientBossSheet 1_76
+  - first:
+      213: 6308279100989872792
+    second: AncientBossSheet 1_77
+  - first:
+      213: 4744520672256477420
+    second: AncientBossSheet 1_78
+  - first:
+      213: 8250816964014699005
+    second: AncientBossSheet 1_79
+  - first:
+      213: 9114330583264522674
+    second: AncientBossSheet 1_80
+  - first:
+      213: -23887881276969337
+    second: AncientBossSheet 1_81
+  - first:
+      213: -3105517698977791383
+    second: AncientBossSheet 1_82
+  - first:
+      213: -3868978150471475213
+    second: AncientBossSheet 1_83
+  - first:
+      213: -3353496078440913118
+    second: AncientBossSheet 1_84
+  - first:
+      213: -3792408858265339051
+    second: AncientBossSheet 1_85
+  - first:
+      213: 875992100182508395
+    second: AncientBossSheet 1_86
+  - first:
+      213: 3334487257660835521
+    second: AncientBossSheet 1_87
+  - first:
+      213: 6811839865538343722
+    second: AncientBossSheet 1_88
+  - first:
+      213: -1019832052993609016
+    second: AncientBossSheet 1_89
+  - first:
+      213: 8265484789272221080
+    second: AncientBossSheet 1_90
+  - first:
+      213: -2990194317885826092
+    second: AncientBossSheet 1_91
+  - first:
+      213: 8249913970681150696
+    second: AncientBossSheet 1_92
+  - first:
+      213: 2670663589947835326
+    second: AncientBossSheet 1_93
+  - first:
+      213: 8711938049772734368
+    second: AncientBossSheet 1_94
+  - first:
+      213: 3982717775412688351
+    second: AncientBossSheet 1_95
+  - first:
+      213: -6634902875360249328
+    second: AncientBossSheet 1_96
+  - first:
+      213: 2507472425213389051
+    second: AncientBossSheet 1_97
+  - first:
+      213: 8951236531798248668
+    second: AncientBossSheet 1_98
+  - first:
+      213: -4947521623956479666
+    second: AncientBossSheet 1_99
+  - first:
+      213: -7602138984594591805
+    second: AncientBossSheet 1_100
+  - first:
+      213: -890867981348781316
+    second: AncientBossSheet 1_101
+  - first:
+      213: 6785965653401412474
+    second: AncientBossSheet 1_102
+  - first:
+      213: 1594722779953026806
+    second: AncientBossSheet 1_103
+  - first:
+      213: -573504347791048843
+    second: AncientBossSheet 1_104
+  - first:
+      213: -1548017510794759624
+    second: AncientBossSheet 1_105
+  - first:
+      213: -3047205573088368779
+    second: AncientBossSheet 1_106
+  - first:
+      213: -3020519501102261540
+    second: AncientBossSheet 1_107
+  - first:
+      213: 3258015345581730394
+    second: AncientBossSheet 1_108
+  - first:
+      213: -900016508441833669
+    second: AncientBossSheet 1_109
+  - first:
+      213: 7426004440385309207
+    second: AncientBossSheet 1_110
+  - first:
+      213: 1803174195852989457
+    second: AncientBossSheet 1_111
+  - first:
+      213: -2788840055139607176
+    second: AncientBossSheet 1_112
+  - first:
+      213: 2812704343235109756
+    second: AncientBossSheet 1_113
+  - first:
+      213: -6313724948439278640
+    second: AncientBossSheet 1_114
+  - first:
+      213: -1781045937660346230
+    second: AncientBossSheet 1_115
+  - first:
+      213: 7372825606201350566
+    second: AncientBossSheet 1_116
+  - first:
+      213: -5402677517335025816
+    second: AncientBossSheet 1_117
+  - first:
+      213: 44389842054021467
+    second: AncientBossSheet 1_118
+  - first:
+      213: 3050619485149524590
+    second: AncientBossSheet 1_119
+  - first:
+      213: 1135024413014559972
+    second: AncientBossSheet 1_120
+  - first:
+      213: 341827588552660297
+    second: AncientBossSheet 1_121
+  - first:
+      213: -5837957288218902752
+    second: AncientBossSheet 1_122
+  - first:
+      213: 2352805166393496498
+    second: AncientBossSheet 1_123
+  - first:
+      213: 7868743672111432913
+    second: AncientBossSheet 1_124
+  - first:
+      213: -5580651484262020257
+    second: AncientBossSheet 1_125
+  - first:
+      213: 1996420517522752799
+    second: AncientBossSheet 1_126
+  - first:
+      213: 1607244573533171176
+    second: AncientBossSheet 1_127
+  - first:
+      213: 1457101359264850367
+    second: AncientBossSheet 1_128
+  - first:
+      213: -751383026693974484
+    second: AncientBossSheet 1_129
+  - first:
+      213: 2417210814230465633
+    second: AncientBossSheet 1_130
+  - first:
+      213: 2424563387414391549
+    second: AncientBossSheet 1_131
+  - first:
+      213: -8622645312372967075
+    second: AncientBossSheet 1_132
+  - first:
+      213: 2854889394039493578
+    second: AncientBossSheet 1_133
+  - first:
+      213: 8868205993301717710
+    second: AncientBossSheet 1_134
+  - first:
+      213: -8954633624845753473
+    second: AncientBossSheet 1_135
+  - first:
+      213: 8601924539643329823
+    second: AncientBossSheet 1_136
+  - first:
+      213: 8188593446232193593
+    second: AncientBossSheet 1_137
+  - first:
+      213: 8800359418462395810
+    second: AncientBossSheet 1_138
+  - first:
+      213: 9121590720194144820
+    second: AncientBossSheet 1_139
+  - first:
+      213: 6178777087098528490
+    second: AncientBossSheet 1_140
+  - first:
+      213: 4429033229495554780
+    second: AncientBossSheet 1_141
+  - first:
+      213: 3136933081097347665
+    second: AncientBossSheet 1_142
+  - first:
+      213: 5105422714303380431
+    second: AncientBossSheet 1_143
+  - first:
+      213: 8651483032215660049
+    second: AncientBossSheet 1_144
+  - first:
+      213: -9159727631705239951
+    second: AncientBossSheet 1_145
+  - first:
+      213: -2553725118954317269
+    second: AncientBossSheet 1_146
+  - first:
+      213: -437759940619912920
+    second: AncientBossSheet 1_147
+  - first:
+      213: -1889721825533764094
+    second: AncientBossSheet 1_148
+  - first:
+      213: 9026109268820194748
+    second: AncientBossSheet 1_149
+  - first:
+      213: -7424093198947640106
+    second: AncientBossSheet 1_150
+  - first:
+      213: -8100376925068221327
+    second: AncientBossSheet 1_151
+  - first:
+      213: 2997069636120302162
+    second: AncientBossSheet 1_152
+  - first:
+      213: 2915671718873397309
+    second: AncientBossSheet 1_153
+  - first:
+      213: 4618056251125889163
+    second: AncientBossSheet 1_154
+  - first:
+      213: 5005552930811758967
+    second: AncientBossSheet 1_155
+  - first:
+      213: -7517026642066532757
+    second: AncientBossSheet 1_156
+  - first:
+      213: -3307602388116880640
+    second: AncientBossSheet 1_157
+  - first:
+      213: 3100828402246690683
+    second: AncientBossSheet 1_158
+  - first:
+      213: 2494487275881288110
+    second: AncientBossSheet 1_159
+  - first:
+      213: 1630298746659555192
+    second: AncientBossSheet 1_160
+  - first:
+      213: 127511116038913791
+    second: AncientBossSheet 1_161
+  - first:
+      213: -1746015381777508301
+    second: AncientBossSheet 1_162
+  - first:
+      213: -3057284534100130826
+    second: AncientBossSheet 1_163
+  - first:
+      213: 3681920203429279550
+    second: AncientBossSheet 1_164
+  - first:
+      213: 4207424598139092487
+    second: AncientBossSheet 1_165
+  - first:
+      213: 2129712867042788526
+    second: AncientBossSheet 1_166
+  - first:
+      213: 3328875410994925560
+    second: AncientBossSheet 1_167
+  - first:
+      213: -5011595686837259714
+    second: AncientBossSheet 1_168
+  - first:
+      213: 5251716568995050696
+    second: AncientBossSheet 1_169
+  - first:
+      213: 7650013430286202574
+    second: AncientBossSheet 1_170
+  - first:
+      213: -481420327864428052
+    second: AncientBossSheet 1_171
+  - first:
+      213: -6691520996511189857
+    second: AncientBossSheet 1_172
+  - first:
+      213: -6714218014870089972
+    second: AncientBossSheet 1_173
+  - first:
+      213: 6769548875906641285
+    second: AncientBossSheet 1_174
+  - first:
+      213: -5761594480020136829
+    second: AncientBossSheet 1_175
+  - first:
+      213: 5453143048770047385
+    second: AncientBossSheet 1_176
+  - first:
+      213: -2887363327590262477
+    second: AncientBossSheet 1_177
+  - first:
+      213: -4408368987228515500
+    second: AncientBossSheet 1_178
+  - first:
+      213: -609709147473684037
+    second: AncientBossSheet 1_179
+  - first:
+      213: -5703152831319375723
+    second: AncientBossSheet 1_180
+  - first:
+      213: 7638791550871960012
+    second: AncientBossSheet 1_181
+  - first:
+      213: 7032691451602102319
+    second: AncientBossSheet 1_182
+  - first:
+      213: 4223982975198263123
+    second: AncientBossSheet 1_183
+  - first:
+      213: 7452602008598743284
+    second: AncientBossSheet 1_184
+  - first:
+      213: -8024775338867089317
+    second: AncientBossSheet 1_185
+  - first:
+      213: -5743573914005755132
+    second: AncientBossSheet 1_186
+  - first:
+      213: -3316923655233171280
+    second: AncientBossSheet 1_187
+  - first:
+      213: 22481713543212992
+    second: AncientBossSheet 1_188
+  - first:
+      213: -2187422394185448295
+    second: AncientBossSheet 1_189
+  - first:
+      213: -2236619841770460530
+    second: AncientBossSheet 1_190
+  - first:
+      213: -4399626222885119360
+    second: AncientBossSheet 1_191
+  - first:
+      213: 1191135206836494992
+    second: AncientBossSheet 1_192
+  - first:
+      213: 3350177532034278297
+    second: AncientBossSheet 1_193
+  - first:
+      213: 3607815557955458076
+    second: AncientBossSheet 1_194
+  - first:
+      213: 6536378828472346912
+    second: AncientBossSheet 1_195
+  - first:
+      213: -375822197674058964
+    second: AncientBossSheet 1_196
+  - first:
+      213: 1117764795937865746
+    second: AncientBossSheet 1_197
+  - first:
+      213: 6213005474398707951
+    second: AncientBossSheet 1_198
+  - first:
+      213: -6643332769051768482
+    second: AncientBossSheet 1_199
+  - first:
+      213: 6270179801577657222
+    second: AncientBossSheet 1_200
+  - first:
+      213: -5916214346655354610
+    second: AncientBossSheet 1_201
+  - first:
+      213: -7903225143978142849
+    second: AncientBossSheet 1_202
+  - first:
+      213: -669505168595090176
+    second: AncientBossSheet 1_203
+  - first:
+      213: -822075497662535621
+    second: AncientBossSheet 1_204
+  - first:
+      213: -955583287398392064
+    second: AncientBossSheet 1_205
+  - first:
+      213: 7543457946574055008
+    second: AncientBossSheet 1_206
+  - first:
+      213: -429148486957096758
+    second: AncientBossSheet 1_207
+  - first:
+      213: -4262206241120006740
+    second: AncientBossSheet 1_208
+  - first:
+      213: 401512980234470364
+    second: AncientBossSheet 1_209
+  - first:
+      213: -2483759715952589886
+    second: AncientBossSheet 1_210
+  - first:
+      213: -30753336265417774
+    second: AncientBossSheet 1_211
+  - first:
+      213: -5426333606644895665
+    second: AncientBossSheet 1_212
+  - first:
+      213: -4540434791770557098
+    second: AncientBossSheet 1_213
+  - first:
+      213: -5304667902724352000
+    second: AncientBossSheet 1_214
+  - first:
+      213: 6227576700057668079
+    second: AncientBossSheet 1_215
+  - first:
+      213: 855293326742634859
+    second: AncientBossSheet 1_216
+  - first:
+      213: -91439306148374597
+    second: AncientBossSheet 1_217
+  - first:
+      213: -2545754266568651886
+    second: AncientBossSheet 1_218
+  - first:
+      213: -821165656494470643
+    second: AncientBossSheet 1_219
+  - first:
+      213: -7673522509430134386
+    second: AncientBossSheet 1_220
+  - first:
+      213: 1566586937044836424
+    second: AncientBossSheet 1_221
+  - first:
+      213: 4341465162781853451
+    second: AncientBossSheet 1_222
+  - first:
+      213: 4400935337557609082
+    second: AncientBossSheet 1_223
+  - first:
+      213: -8127659151314712583
+    second: AncientBossSheet 1_224
+  - first:
+      213: 7151593923199387338
+    second: AncientBossSheet 1_225
+  - first:
+      213: 7845572784966332187
+    second: AncientBossSheet 1_226
+  - first:
+      213: 1886547206957062538
+    second: AncientBossSheet 1_227
+  - first:
+      213: 467349901594123589
+    second: AncientBossSheet 1_228
+  - first:
+      213: 1972974432950845274
+    second: AncientBossSheet 1_229
+  - first:
+      213: -6778510599741824665
+    second: AncientBossSheet 1_230
+  - first:
+      213: -5070799919937870863
+    second: AncientBossSheet 1_231
+  - first:
+      213: -1326494968547431837
+    second: AncientBossSheet 1_232
+  - first:
+      213: -4247990079004711967
+    second: AncientBossSheet 1_233
+  - first:
+      213: -441378198169725937
+    second: AncientBossSheet 1_234
+  - first:
+      213: 1160553190612113044
+    second: AncientBossSheet 1_235
+  - first:
+      213: -5192642384213024488
+    second: AncientBossSheet 1_236
+  - first:
+      213: 8262334917380226695
+    second: AncientBossSheet 1_237
+  - first:
+      213: 6380807221731970729
+    second: AncientBossSheet 1_238
+  - first:
+      213: 2862395767848803166
+    second: AncientBossSheet 1_239
+  - first:
+      213: 4577541534303891815
+    second: AncientBossSheet 1_240
+  - first:
+      213: -4972601642192362896
+    second: AncientBossSheet 1_241
+  - first:
+      213: -4935804683150012952
+    second: AncientBossSheet 1_242
+  - first:
+      213: -3131004537218659661
+    second: AncientBossSheet 1_243
+  - first:
+      213: -8113707581469732163
+    second: AncientBossSheet 1_244
+  - first:
+      213: -7863588030211113800
+    second: AncientBossSheet 1_245
+  - first:
+      213: -7659481677001838223
+    second: AncientBossSheet 1_246
+  - first:
+      213: -5349526805452343754
+    second: AncientBossSheet 1_247
+  - first:
+      213: -7144300967377532979
+    second: AncientBossSheet 1_248
+  - first:
+      213: 5062127680241588500
+    second: AncientBossSheet 1_249
+  - first:
+      213: 1567430376611664316
+    second: AncientBossSheet 1_250
+  - first:
+      213: 432695652476194780
+    second: AncientBossSheet 1_251
+  - first:
+      213: 6109065016915033591
+    second: AncientBossSheet 1_252
+  - first:
+      213: 1959310071268002915
+    second: AncientBossSheet 1_253
+  - first:
+      213: -7637461785783658404
+    second: AncientBossSheet 1_254
+  - first:
+      213: 6375383253636680230
+    second: AncientBossSheet 1_255
+  - first:
+      213: 5654097618783973391
+    second: AncientBossSheet 1_256
+  - first:
+      213: -7184562833308487471
+    second: AncientBossSheet 1_257
+  - first:
+      213: 4867176558118216184
+    second: AncientBossSheet 1_258
+  - first:
+      213: 4526736913676950675
+    second: AncientBossSheet 1_259
+  - first:
+      213: -298339325731813695
+    second: AncientBossSheet 1_260
+  - first:
+      213: 8440748986950208016
+    second: AncientBossSheet 1_261
+  - first:
+      213: 3761394365255437477
+    second: AncientBossSheet 1_262
+  - first:
+      213: 2031884854865638922
+    second: AncientBossSheet 1_263
+  - first:
+      213: -2075642726076978343
+    second: AncientBossSheet 1_264
+  - first:
+      213: 2102016539990851439
+    second: AncientBossSheet 1_265
+  - first:
+      213: 8081273150090600638
+    second: AncientBossSheet 1_266
+  - first:
+      213: -8269022948921210547
+    second: AncientBossSheet 1_267
+  - first:
+      213: -5521066777874880252
+    second: AncientBossSheet 1_268
+  - first:
+      213: 5892329047800572084
+    second: AncientBossSheet 1_269
+  - first:
+      213: -3373537814653408852
+    second: AncientBossSheet 1_270
+  - first:
+      213: -1678636226687023394
+    second: AncientBossSheet 1_271
+  - first:
+      213: -5382602761990120823
+    second: AncientBossSheet 1_272
+  - first:
+      213: -582948800263541354
+    second: AncientBossSheet 1_273
+  - first:
+      213: -2887100642093022873
+    second: AncientBossSheet 1_274
+  - first:
+      213: 3013866500739477532
+    second: AncientBossSheet 1_275
+  - first:
+      213: -3045394696857814009
+    second: AncientBossSheet 1_276
+  - first:
+      213: 3209527142880631264
+    second: AncientBossSheet 1_277
+  - first:
+      213: -9136738078399256035
+    second: AncientBossSheet 1_278
+  - first:
+      213: 1658835132728095396
+    second: AncientBossSheet 1_279
+  - first:
+      213: 5480164346935621370
+    second: AncientBossSheet 1_280
+  - first:
+      213: 2970001912897060927
+    second: AncientBossSheet 1_281
+  - first:
+      213: 3319416097588098509
+    second: AncientBossSheet 1_282
+  - first:
+      213: -1942479301620931520
+    second: AncientBossSheet 1_283
+  - first:
+      213: -823942001986628525
+    second: AncientBossSheet 1_284
+  - first:
+      213: 509039641585348210
+    second: AncientBossSheet 1_285
+  - first:
+      213: 4651632630059244025
+    second: AncientBossSheet 1_286
+  - first:
+      213: -8918332686997404943
+    second: AncientBossSheet 1_287
+  - first:
+      213: 3141545686038232100
+    second: AncientBossSheet 1_288
+  - first:
+      213: -5088445210569220027
+    second: AncientBossSheet 1_289
+  - first:
+      213: -1677176102955770369
+    second: AncientBossSheet 1_290
+  - first:
+      213: 2308445517044412279
+    second: AncientBossSheet 1_291
+  - first:
+      213: -2198986927068437922
+    second: AncientBossSheet 1_292
+  - first:
+      213: 6563390645041988727
+    second: AncientBossSheet 1_293
+  - first:
+      213: 770649347806554218
+    second: AncientBossSheet 1_294
+  - first:
+      213: 6510238673394793574
+    second: AncientBossSheet 1_295
+  - first:
+      213: -7259887221565277196
+    second: AncientBossSheet 1_296
+  - first:
+      213: -3644868624576186969
+    second: AncientBossSheet 1_297
+  - first:
+      213: -1073591639503227861
+    second: AncientBossSheet 1_298
+  - first:
+      213: -3741614991009567197
+    second: AncientBossSheet 1_299
+  - first:
+      213: 3032638992341828217
+    second: AncientBossSheet 1_300
+  - first:
+      213: 6119317687848946302
+    second: AncientBossSheet 1_301
+  - first:
+      213: -3326026359431261745
+    second: AncientBossSheet 1_302
+  - first:
+      213: 32932707650404788
+    second: AncientBossSheet 1_303
+  - first:
+      213: -5150592823140004190
+    second: AncientBossSheet 1_304
+  - first:
+      213: 602952582003303981
+    second: AncientBossSheet 1_305
+  - first:
+      213: 4903540294557566314
+    second: AncientBossSheet 1_306
+  - first:
+      213: -924177528901188647
+    second: AncientBossSheet 1_307
+  - first:
+      213: -3586050588563616325
+    second: AncientBossSheet 1_308
+  - first:
+      213: -570449168391969195
+    second: AncientBossSheet 1_309
+  - first:
+      213: -8646980946212142894
+    second: AncientBossSheet 1_310
+  - first:
+      213: -9219154552993207114
+    second: AncientBossSheet 1_311
+  - first:
+      213: -7752669793987420225
+    second: AncientBossSheet 1_312
+  - first:
+      213: -5222595706094654827
+    second: AncientBossSheet 1_313
+  - first:
+      213: 6758122725348147290
+    second: AncientBossSheet 1_314
+  - first:
+      213: 8163747299326558371
+    second: AncientBossSheet 1_315
+  - first:
+      213: 7783028106960934551
+    second: AncientBossSheet 1_316
+  - first:
+      213: 2503234860390882940
+    second: AncientBossSheet 1_317
+  - first:
+      213: -4806487899509601352
+    second: AncientBossSheet 1_318
+  - first:
+      213: -5487253618050999660
+    second: AncientBossSheet 1_319
+  - first:
+      213: 7254789641801045820
+    second: AncientBossSheet 1_320
+  - first:
+      213: 5755047160467312074
+    second: AncientBossSheet 1_321
+  - first:
+      213: 1040300738211762960
+    second: AncientBossSheet 1_322
+  - first:
+      213: -2568270556654756946
+    second: AncientBossSheet 1_323
+  - first:
+      213: 2405325888096185713
+    second: AncientBossSheet 1_324
+  - first:
+      213: -8378614494595012583
+    second: AncientBossSheet 1_325
+  - first:
+      213: -3138636391869033547
+    second: AncientBossSheet 1_326
+  - first:
+      213: -5860838672041855640
+    second: AncientBossSheet 1_327
+  - first:
+      213: 2881052309136139481
+    second: AncientBossSheet 1_328
+  - first:
+      213: -2585344424954879360
+    second: AncientBossSheet 1_329
+  - first:
+      213: -300266255367075323
+    second: AncientBossSheet 1_330
+  - first:
+      213: 6339746387026502361
+    second: AncientBossSheet 1_331
+  - first:
+      213: -6058750258969194713
+    second: AncientBossSheet 1_332
+  - first:
+      213: -8708844926456045993
+    second: AncientBossSheet 1_333
+  - first:
+      213: 2035609734226338583
+    second: AncientBossSheet 1_334
+  - first:
+      213: -8739210365127076780
+    second: AncientBossSheet 1_335
+  - first:
+      213: 3650110099816244417
+    second: AncientBossSheet 1_336
+  - first:
+      213: 4618585435629246379
+    second: AncientBossSheet 1_337
+  - first:
+      213: 8957241301632092870
+    second: AncientBossSheet 1_338
+  - first:
+      213: -3497358490652666115
+    second: AncientBossSheet 1_339
+  - first:
+      213: 282420041658735034
+    second: AncientBossSheet 1_340
+  - first:
+      213: 6433111307736199370
+    second: AncientBossSheet 1_341
+  - first:
+      213: 7121215566695375477
+    second: AncientBossSheet 1_342
+  - first:
+      213: -3942790710078345222
+    second: AncientBossSheet 1_343
+  - first:
+      213: 5724303526389863140
+    second: AncientBossSheet 1_344
+  - first:
+      213: -8121325606786290120
+    second: AncientBossSheet 1_345
+  - first:
+      213: -7416456598213792437
+    second: AncientBossSheet 1_346
+  - first:
+      213: 3795013346710199047
+    second: AncientBossSheet 1_347
+  - first:
+      213: -441522674412009423
+    second: AncientBossSheet 1_348
+  - first:
+      213: 1530220978114538215
+    second: AncientBossSheet 1_349
+  - first:
+      213: -1374406377312055532
+    second: AncientBossSheet 1_350
+  - first:
+      213: -8225790811386662268
+    second: AncientBossSheet 1_351
+  - first:
+      213: -5440454572993396969
+    second: AncientBossSheet 1_352
+  - first:
+      213: -5753225275156083022
+    second: AncientBossSheet 1_353
+  - first:
+      213: 766377408086319980
+    second: AncientBossSheet 1_354
+  - first:
+      213: 5503804031612790273
+    second: AncientBossSheet 1_355
+  - first:
+      213: 5929354229736600323
+    second: AncientBossSheet 1_356
+  - first:
+      213: 6172765172515508261
+    second: AncientBossSheet 1_357
+  - first:
+      213: 4308360429141446680
+    second: AncientBossSheet 1_358
+  - first:
+      213: -3981640565253091098
+    second: AncientBossSheet 1_359
+  - first:
+      213: 6207358726394925774
+    second: AncientBossSheet 1_360
+  - first:
+      213: 1953752622759396485
+    second: AncientBossSheet 1_361
+  - first:
+      213: 1004697046700130059
+    second: AncientBossSheet 1_362
+  - first:
+      213: 421428814674444680
+    second: AncientBossSheet 1_363
+  - first:
+      213: 216891050873725699
+    second: AncientBossSheet 1_364
+  - first:
+      213: 2217036724435673823
+    second: AncientBossSheet 1_365
+  - first:
+      213: 5376942055980747769
+    second: AncientBossSheet 1_366
+  - first:
+      213: 2303715542445910653
+    second: AncientBossSheet 1_367
+  - first:
+      213: -1593404476351650462
+    second: AncientBossSheet 1_368
+  - first:
+      213: 3076073905973527000
+    second: AncientBossSheet 1_369
+  - first:
+      213: -7431840231070185109
+    second: AncientBossSheet 1_370
+  - first:
+      213: 5860904883457689956
+    second: AncientBossSheet 1_371
+  - first:
+      213: 4160882181910740182
+    second: AncientBossSheet 1_372
+  - first:
+      213: -3636939205614043141
+    second: AncientBossSheet 1_373
+  - first:
+      213: 3111836050298090700
+    second: AncientBossSheet 1_374
+  - first:
+      213: 8701631075990170469
+    second: AncientBossSheet 1_375
+  - first:
+      213: -3578119027574932756
+    second: AncientBossSheet 1_376
+  - first:
+      213: 8802948800187773074
+    second: AncientBossSheet 1_377
+  - first:
+      213: 4969455380737486414
+    second: AncientBossSheet 1_378
+  - first:
+      213: -1637996383496664427
+    second: AncientBossSheet 1_379
+  - first:
+      213: -8660486974533915770
+    second: AncientBossSheet 1_380
+  - first:
+      213: 8285174207197548139
+    second: AncientBossSheet 1_381
+  - first:
+      213: 1271659259308360740
+    second: AncientBossSheet 1_382
+  - first:
+      213: -6490793833566089851
+    second: AncientBossSheet 1_383
+  - first:
+      213: -2437580428701246019
+    second: AncientBossSheet 1_384
+  - first:
+      213: 5356726516697734376
+    second: AncientBossSheet 1_385
+  - first:
+      213: -8750377091657102122
+    second: AncientBossSheet 1_386
+  - first:
+      213: -5714232557229950715
+    second: AncientBossSheet 1_387
+  - first:
+      213: -8793997781487102028
+    second: AncientBossSheet 1_388
+  - first:
+      213: 8995242898632175073
+    second: AncientBossSheet 1_389
+  - first:
+      213: 4723087248663522432
+    second: AncientBossSheet 1_390
+  - first:
+      213: 2025000644798664993
+    second: AncientBossSheet 1_391
+  - first:
+      213: 1405671413842625279
+    second: AncientBossSheet 1_392
+  - first:
+      213: -4600271602493675096
+    second: AncientBossSheet 1_393
+  - first:
+      213: -4673129123094263843
+    second: AncientBossSheet 1_394
+  - first:
+      213: -5471793155268959567
+    second: AncientBossSheet 1_395
+  - first:
+      213: -8895368017041239378
+    second: AncientBossSheet 1_396
+  - first:
+      213: 2217792083744911220
+    second: AncientBossSheet 1_397
+  - first:
+      213: -7625638492790025277
+    second: AncientBossSheet 1_398
+  - first:
+      213: -7174712688523415758
+    second: AncientBossSheet 1_399
+  - first:
+      213: 7908013116092939770
+    second: AncientBossSheet 1_400
+  - first:
+      213: 6252378416470419499
+    second: AncientBossSheet 1_401
+  - first:
+      213: -2499070168128881895
+    second: AncientBossSheet 1_402
+  - first:
+      213: 6939788156898584555
+    second: AncientBossSheet 1_403
+  - first:
+      213: 8446482414545421630
+    second: AncientBossSheet 1_404
+  - first:
+      213: -8695843178700607693
+    second: AncientBossSheet 1_405
+  - first:
+      213: -4075951540912606290
+    second: AncientBossSheet 1_406
+  - first:
+      213: 6081913739318340392
+    second: AncientBossSheet 1_407
+  - first:
+      213: 3273344075648737090
+    second: AncientBossSheet 1_408
+  - first:
+      213: -2368417519392364304
+    second: AncientBossSheet 1_409
+  - first:
+      213: -4568056389006277264
+    second: AncientBossSheet 1_410
+  - first:
+      213: 366977320023915684
+    second: AncientBossSheet 1_411
+  - first:
+      213: -128488620122329163
+    second: AncientBossSheet 1_412
+  - first:
+      213: -2537650035839899861
+    second: AncientBossSheet 1_413
+  - first:
+      213: 8063337906188973810
+    second: AncientBossSheet 1_414
+  - first:
+      213: -3904340075650494977
+    second: AncientBossSheet 1_415
+  - first:
+      213: 8237098408323006649
+    second: AncientBossSheet 1_416
+  - first:
+      213: 8225347914697246006
+    second: AncientBossSheet 1_417
+  - first:
+      213: 927633562460213944
+    second: AncientBossSheet 1_418
+  - first:
+      213: 8385161187064678427
+    second: AncientBossSheet 1_419
+  - first:
+      213: 4386106419302247390
+    second: AncientBossSheet 1_420
+  - first:
+      213: -8374086699834169733
+    second: AncientBossSheet 1_421
+  - first:
+      213: -4691753620520475222
+    second: AncientBossSheet 1_422
+  - first:
+      213: 7380247112237387698
+    second: AncientBossSheet 1_423
+  - first:
+      213: -367313101084316821
+    second: AncientBossSheet 1_424
+  - first:
+      213: -4385339454635650320
+    second: AncientBossSheet 1_425
+  - first:
+      213: 6251223796243979733
+    second: AncientBossSheet 1_426
+  - first:
+      213: 814586958712737434
+    second: AncientBossSheet 1_427
+  - first:
+      213: -4571886858471736737
+    second: AncientBossSheet 1_428
+  - first:
+      213: 4058417534672646015
+    second: AncientBossSheet 1_429
+  - first:
+      213: -3324978000549747132
+    second: AncientBossSheet 1_430
+  - first:
+      213: 2645206361362908053
+    second: AncientBossSheet 1_431
+  - first:
+      213: -2185672659074706961
+    second: AncientBossSheet 1_432
+  - first:
+      213: 4024706517087253631
+    second: AncientBossSheet 1_433
+  - first:
+      213: -1115249514567116194
+    second: AncientBossSheet 1_434
+  - first:
+      213: -2732688642179208869
+    second: AncientBossSheet 1_435
+  - first:
+      213: -4220138248914209164
+    second: AncientBossSheet 1_436
+  - first:
+      213: 8839867076351090411
+    second: AncientBossSheet 1_437
+  - first:
+      213: -863907590146260734
+    second: AncientBossSheet 1_438
+  - first:
+      213: -3011161592437638064
+    second: AncientBossSheet 1_439
+  - first:
+      213: 2531703245922364755
+    second: AncientBossSheet 1_440
+  - first:
+      213: 7901677371970329977
+    second: AncientBossSheet 1_441
+  - first:
+      213: 2036446685995862423
+    second: AncientBossSheet 1_442
+  - first:
+      213: -404748014188043414
+    second: AncientBossSheet 1_443
+  - first:
+      213: -5655398477183336831
+    second: AncientBossSheet 1_444
+  - first:
+      213: -89027368358923003
+    second: AncientBossSheet 1_445
+  - first:
+      213: 6438698581358152827
+    second: AncientBossSheet 1_446
+  - first:
+      213: 906497981000240988
+    second: AncientBossSheet 1_447
+  - first:
+      213: -3436156089048147486
+    second: AncientBossSheet 1_448
+  - first:
+      213: 8505521227366166058
+    second: AncientBossSheet 1_449
+  - first:
+      213: -1139736980978403445
+    second: AncientBossSheet 1_450
+  - first:
+      213: 418123428286885397
+    second: AncientBossSheet 1_451
+  - first:
+      213: -3261063530643656964
+    second: AncientBossSheet 1_452
+  - first:
+      213: 8222889381759549508
+    second: AncientBossSheet 1_453
+  - first:
+      213: 7017184755301063141
+    second: AncientBossSheet 1_454
+  - first:
+      213: 2732114537826794280
+    second: AncientBossSheet 1_455
+  - first:
+      213: 1312157349855409184
+    second: AncientBossSheet 1_456
+  - first:
+      213: 6584149456166465492
+    second: AncientBossSheet 1_457
+  - first:
+      213: -1601852778373230186
+    second: AncientBossSheet 1_458
+  - first:
+      213: -4303312481539500873
+    second: AncientBossSheet 1_459
+  - first:
+      213: -2071598701643834320
+    second: AncientBossSheet 1_460
+  - first:
+      213: 7432373722311846400
+    second: AncientBossSheet 1_461
+  - first:
+      213: -6684216844025617388
+    second: AncientBossSheet 1_462
+  - first:
+      213: -2176312288386270505
+    second: AncientBossSheet 1_463
+  - first:
+      213: -5853339712660322951
+    second: AncientBossSheet 1_464
+  - first:
+      213: -4678235459977165252
+    second: AncientBossSheet 1_465
+  - first:
+      213: 1602771417011763326
+    second: AncientBossSheet 1_466
+  - first:
+      213: 7550829153121468949
+    second: AncientBossSheet 1_467
+  - first:
+      213: -3503802808836312614
+    second: AncientBossSheet 1_468
+  - first:
+      213: -8298785194288223589
+    second: AncientBossSheet 1_469
+  - first:
+      213: -2420302532389883034
+    second: AncientBossSheet 1_470
+  - first:
+      213: -5361094556120056772
+    second: AncientBossSheet 1_471
+  - first:
+      213: -2625551265205021577
+    second: AncientBossSheet 1_472
+  - first:
+      213: -8822102617975617719
+    second: AncientBossSheet 1_473
+  - first:
+      213: -4468588574870005885
+    second: AncientBossSheet 1_474
+  - first:
+      213: 1237909233479647540
+    second: AncientBossSheet 1_475
+  - first:
+      213: 2938113353634888543
+    second: AncientBossSheet 1_476
+  - first:
+      213: 2560399601378168517
+    second: AncientBossSheet 1_477
+  - first:
+      213: 8665749878736166441
+    second: AncientBossSheet 1_478
+  - first:
+      213: -4345804622022760482
+    second: AncientBossSheet 1_479
+  - first:
+      213: -369352447330565671
+    second: AncientBossSheet 1_480
+  - first:
+      213: 5849144386401617439
+    second: AncientBossSheet 1_481
+  - first:
+      213: -7478687262136007270
+    second: AncientBossSheet 1_482
+  - first:
+      213: -7639303670503757776
+    second: AncientBossSheet 1_483
+  - first:
+      213: 1192209923348018092
+    second: AncientBossSheet 1_484
+  - first:
+      213: -2637398374791053943
+    second: AncientBossSheet 1_485
+  - first:
+      213: -30202721977470892
+    second: AncientBossSheet 1_486
+  - first:
+      213: 6098313778247222236
+    second: AncientBossSheet 1_487
+  - first:
+      213: -2283995490125695165
+    second: AncientBossSheet 1_488
+  - first:
+      213: 172449729149481954
+    second: AncientBossSheet 1_489
+  - first:
+      213: 3186133181206585346
+    second: AncientBossSheet 1_490
+  - first:
+      213: 2494376484657694283
+    second: AncientBossSheet 1_491
+  - first:
+      213: -409906330819458473
+    second: AncientBossSheet 1_492
+  - first:
+      213: -2850901432184438400
+    second: AncientBossSheet 1_493
+  - first:
+      213: 1579044018083253952
+    second: AncientBossSheet 1_494
+  - first:
+      213: 5204844516587616576
+    second: AncientBossSheet 1_495
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AncientBossSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1692
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212b39eef06128c4fa2da28009cf4429
+      internalID: 216832166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1692
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa49e6c27af1a040aff9e5151c67a35
+      internalID: -108434346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_2
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1692
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9a6012643668f4e858845104ed97fa
+      internalID: 1435213691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_3
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1692
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec30812d2a856284b9d07f0dbda5ff4f
+      internalID: 568508552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_4
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1692
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa524bedb09a49248ae838637699a198
+      internalID: 1372551687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1692
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1983866796b9fec46af3f7d78d38237a
+      internalID: -1770146494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1692
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead6ec5d26f31f740aa8717a95b7f88e
+      internalID: 1534247405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1692
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c3591e1bcb3b94abc2f57bb55c9ed6
+      internalID: -2017087312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1692
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d14c33249299b4995dd058c18a5dac
+      internalID: 310992079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1692
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e70e18946e9a643b7b108c4de3285f
+      internalID: 874783039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1598
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d625ac570f6fc7d41a5ca77b6093ddcf
+      internalID: 1443726258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_11
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1598
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285026dd44dffd04082f88a86b139fd3
+      internalID: -1808490056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_12
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1598
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b7f752be9510d4cac5901f85bb16cc
+      internalID: 607843368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_13
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1598
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba79183755047c34bb3a6c82acf97ad8
+      internalID: 1779921343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_14
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1598
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6190ccd2eced74fb862159396ef758
+      internalID: -290549933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1598
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5382fdd4ac2518145ac6d0794023b2e1
+      internalID: -1930180138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1598
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7151c7e2c41fbb1469814c906bc26890
+      internalID: 314233855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1598
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82e23a8087c8fe4b862eb1059bed63e
+      internalID: 1270332718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1598
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bae14d78e109f7449c5a06d93b5fb41
+      internalID: -1386173724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1598
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0130516eb32f22c458b8bc18fab204ff
+      internalID: -516220083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1504
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15427a11f6f19b345b06e257554e0f1d
+      internalID: 382685222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_21
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1504
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11986a88f30a16541843e78274df04d4
+      internalID: -1546696200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_22
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1504
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5376323b54c34004f8ee3b821b916758
+      internalID: 226783838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_23
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1504
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd28c1170f8a8b4e95944beb41966ff
+      internalID: -263184806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_24
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1504
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033435654ab9f38458fde387b5e61292
+      internalID: 1624374166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_25
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1504
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde6b92ad357b97479d50f0891fc3498
+      internalID: -1648960162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1504
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cbacd94a12e344c86c1f7e233cc0c9
+      internalID: -1318974603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1504
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb7c17478b1cc740b01c3c9cb7d46c9
+      internalID: -1843584980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_28
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1504
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7171b14d07b224b48b7e2be731b284e8
+      internalID: 743053416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1504
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325272c2bfb592b44ae915919b260e5d
+      internalID: -2072491599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1410
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a69ac5b5ec5f4342b55a0eb1edca8dc
+      internalID: 167510907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_31
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1410
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0cbd7c08c181f488dfe4d759a94927
+      internalID: 1321877901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_32
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1410
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a536bf71b5f8343a54f7cddf59e091
+      internalID: -1295361553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_33
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1410
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717fb39f55b20ce43b46a6fe3890bf6e
+      internalID: 1639174226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_34
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1410
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1696d965aae674897564c93ca6e326
+      internalID: -171354512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_35
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1410
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fbb419951cb8d478242f6c4380c6ee
+      internalID: 1938970456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1410
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63cb567893d37744a78c25dca58abb3
+      internalID: -1980023117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_37
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1410
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b465e799b0933e842b16d7ccdf813f30
+      internalID: 398852339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_38
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1410
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31962f1d3be0bc4684f518fe25a4195
+      internalID: 596624427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_39
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1410
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91e1fe6de27e3e4d940ab25504de29f
+      internalID: 39294254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1316
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea7788346fb9fb43b5178d0a700b568
+      internalID: -1529014411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_41
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1316
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1896381fe89f9d048925a94eb9cae320
+      internalID: 268271016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_42
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1316
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3b46be129e9d043b29d415b3a90dec
+      internalID: 1090071919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_43
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1316
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bf0bdf9c7d19145ae2e98692ce0829
+      internalID: -2098687133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_44
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1316
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f650d581bae49c646b4c0cae9e2b3985
+      internalID: 985266223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_45
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1316
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560d07df3fe034f42bfbc5fa8ca3ef3f
+      internalID: 697009008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_46
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1316
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da488ad93ec92394a9192f7c316564ea
+      internalID: -137673013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_47
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1316
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e980abf76947640ac8d235a8c54bd8
+      internalID: -1664612239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_48
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1316
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011bb9177c2bf544988d3447cd1a50ab
+      internalID: 1200382822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_49
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1316
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0216295c316544cb65cb72306b4867
+      internalID: -743052374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1222
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a7e0a248f78ca44978056ca0b6ee5d
+      internalID: 2051500883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_51
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1222
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312b7daa95c79fb40997eede2746b099
+      internalID: 1273569916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_52
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1222
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d40766a4b90da04184a4e4259bf37a9
+      internalID: -1978973628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_53
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1222
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf7f1aeab9419947bef3ab6a89377d8
+      internalID: -275361478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_54
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1222
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e33f873494be44b977323d1834375a
+      internalID: 531495193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_55
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1222
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c490e4bf300aa6a4b8ccb3ed9f1b6779
+      internalID: -1937718655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_56
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1222
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0b4d37917e157438c2ece6d48957d1
+      internalID: -1714468568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_57
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1222
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a83f27c6448d14bb016e5d2e13272a
+      internalID: -1832689263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_58
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1222
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d93c2837167026448a8efa93791a9af
+      internalID: -672250533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_59
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1222
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ddd02fb162fa444aa97005091884ae
+      internalID: 1855960346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1128
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58936c3c9c35d164da68fedf16039ab3
+      internalID: 2045788000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_61
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1128
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b528b6c9c6168cc429a5be7e5858c365
+      internalID: 415892996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_62
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1128
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d42dbb879683374aa93765ff573bf66
+      internalID: 269608991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_63
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1128
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a6734a4a2536b4a9e42e667689571b
+      internalID: -2067287776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_64
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1128
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af72e48d11735b4469c6c1d7f31d91dc
+      internalID: -776935518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_65
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1128
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3121e588c6a293e4e81e078d56767078
+      internalID: -190409736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_66
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1128
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee2993b6b1332444ae0b04723a6cc5e
+      internalID: -1989230052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_67
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1128
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f7337175a697e40beff048725e52b2
+      internalID: 882409454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_68
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1128
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df30ab7f312a8144b03c81315c2d88b
+      internalID: -1597953183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_69
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1128
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91580eca05471a04a9618d64d9fb391d
+      internalID: 507953170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1034
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93e24d726b8ff244b9c6e46a65f3dcc
+      internalID: -423151197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_71
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1034
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4528b8451938a654d83e822aa0768c74
+      internalID: 25631782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_72
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1034
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990e81a7dd989a142a187aff12b059ba
+      internalID: -508369549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_73
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1034
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5039fadbf4abfcf4cb6a4836ceb120e2
+      internalID: -710979602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_74
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1034
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711432f51daccdd4bbf33e06bc5adaed
+      internalID: -1199341122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_75
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1034
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3847cd07bbabda4192928d059fead6c
+      internalID: 764648901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_76
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1034
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202ae656ee2f9a74bb268dec1b4260cc
+      internalID: -1911732126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_77
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1034
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5860392f18d3804c8e9f9924a00c700
+      internalID: 288408773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_78
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1034
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972e66f75f46ae443a56a1501e9e246c
+      internalID: 810190966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_79
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1034
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d39f1ab106ee144299306bb8f427eca
+      internalID: 1781124149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6846bf07b88483645a9a21748133516f
+      internalID: 1748510284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_81
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 940
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b56ff267540cfe4389fedf9c2c7ccb3
+      internalID: -1846487605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_82
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 940
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b807ef28e0a520439c66359443824d8
+      internalID: -1498261026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_83
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 940
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96d3a1ea6b39b7409df5ee99246616a
+      internalID: 1060205720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_84
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 940
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc751f068d6251745bd6deb18c6f4891
+      internalID: 2085049157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_85
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 940
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2c09ed28a4dd640864cda2cc98b2d5
+      internalID: -1798086831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_86
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 940
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98763871b66e054e938d3e47a8ced25
+      internalID: 2090995810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_87
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 940
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac02f9fa1b9afd4bb1432261351eeae
+      internalID: 1220628718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_88
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 940
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078a76ef489ad364cbb7ff6cc469a875
+      internalID: -1927752076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_89
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 940
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016ef8a58ed188a4bb5c37c8f523433c
+      internalID: 469253080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 846
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d94893875172f42a3935dfc8726d33
+      internalID: 1394640097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_91
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 846
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f12cdb1652c404458a322bf6658957a
+      internalID: 1202195456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_92
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 846
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c0ea99b5323b34695d402b01f25eae
+      internalID: 955731369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_93
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 846
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5518a20b5c7b8344bd9187fcb2d5894
+      internalID: -1065955023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_94
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 846
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e3da041c5b4da43bb837dba95d2930
+      internalID: -500996659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_95
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 846
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba39dc5af358ca4c8a4f4146bec818f
+      internalID: 427109550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_96
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 846
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298a27c9f546aa84295b19bfafe9b01e
+      internalID: -1155560643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_97
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 846
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e36c0db2a548d43bbdf34ce5463710
+      internalID: -1539990092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_98
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 846
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350c21b39d1992444999da5ec10d0067
+      internalID: -834594554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_99
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 846
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd0e143459b2084caafa5f2b84ee899
+      internalID: -2005053324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa824e1d74e87d498e2b38b8fd156c1
+      internalID: 250588209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_101
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 752
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ff26c5f9b29d0478664d5405439452
+      internalID: 1723476351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_102
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 752
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567d6d77d27d8c242a1fd12885d68d96
+      internalID: 301380606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_103
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 752
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae78d0e1ae35d248b0bf1762ee2a3b6
+      internalID: 2059707607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_104
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 752
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c3cbb4b743bf8438514fe205529ea1
+      internalID: 1330377621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_105
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 752
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb0faf3b7be8894f8824e7bbaff0456
+      internalID: -866272646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_106
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 752
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71de3edfe47639a4e8604d9b999f9418
+      internalID: 479152890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_107
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 752
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83860ac5b1b72df4db74313674c01a6b
+      internalID: -90917291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_108
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 752
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c966b8a538b58624fab9d19185aee038
+      internalID: -296930748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_109
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 752
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ff22236e8eb5c42a26b943fcf90170
+      internalID: 1337116702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04f4eda417d1624cb7cf87d95417625
+      internalID: -1243558371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_111
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 658
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f340ba904938b5344b9a96a96aeb638a
+      internalID: -492722523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_112
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 658
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766133c73df45a142afd0dfe69ca17f4
+      internalID: -1197956492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_113
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 658
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd891d79d9e6ae40ae9b008f407ae40
+      internalID: -1435087798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_114
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 658
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897da24c903554449920331b48aff739
+      internalID: -893877232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_115
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 658
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28177c93f4c22c4c8c8596e08a860b8
+      internalID: 460388745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_116
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 658
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33213a03fb3e11a41a9e62f831f8a94e
+      internalID: -1676657274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_117
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 658
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f2c208a4cebcb4a9a5d3aebf0c1658
+      internalID: -948241577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_118
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 658
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502b7e3bc1c8c0e42a05c3133c088002
+      internalID: 473512988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_119
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 658
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76733d80418d42046b1be49606f29965
+      internalID: 929987889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ab30b2475e59641b7aeea65256ebde
+      internalID: -953474180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_121
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 564
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bea9ebc0fc928e41b5e7fe5a2a8663b
+      internalID: 1368465243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_122
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 564
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457f7ebfc0440c04babcf3c69e4b6147
+      internalID: -246082738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_123
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 564
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a410c22e6213d846a4961f85abaae3a
+      internalID: 648239839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_124
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 564
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a46b8dd7e1a453408d3991e5a011283
+      internalID: -225871494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_125
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 564
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47db71e877f23654ea082f9e6f4196ae
+      internalID: 571275507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_126
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 564
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ddf4db78f2f77448bfeb4ae1720f40
+      internalID: -113158157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_127
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 564
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66eeaf6e63062084b83d8a8b3a0a7460
+      internalID: -1605130444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_128
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 564
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e67b9ea697bc8469381a8c9e628d22
+      internalID: 1222303435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_129
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 564
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a187bda297c23234fa8bd1bb8f234eb6
+      internalID: 1796832504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4214237334c3a14eae2226e48d0f3d4
+      internalID: -1964513282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_131
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 470
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a233f7a0926ac8249a1dd641487d1d9d
+      internalID: -1435223830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_132
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 470
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d620b44b41009945b332c712a71011b
+      internalID: 889592729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_133
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 470
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fb5ae66304bb24c83790562a5c62d0
+      internalID: 281491963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_134
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 470
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3104417dfa416214ea1e8dfcc484c599
+      internalID: 1016018706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_135
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 470
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929409d4006661d4c9951bfe8bdfc2e6
+      internalID: 800931601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_136
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 470
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5fa8989441a7747bd887aac7bbf18f
+      internalID: 798623829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_137
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 470
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72326c01be04efe428bae08e8b5756f0
+      internalID: 95861522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_138
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 470
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca436675477b2774a9d144e9ffaadf7b
+      internalID: -1818990347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_139
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 470
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd756fffa0cd644e8f6d3acc95f231d
+      internalID: -548461938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564e2653df033104ebda4924f2bfd8a9
+      internalID: -747857467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_141
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 376
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e666870400b7fb249b67dbc7aabc38a1
+      internalID: -682620207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_142
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 376
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a8191509b6c9042be9ff5c4f927985
+      internalID: 1618692942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_143
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 376
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe7908af7dcddd47a418c0437fd9c36
+      internalID: 1972827985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_144
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 376
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9397f84ba5070c4f8d31ee78e6f7ef6
+      internalID: 1572092675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_145
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 376
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07616ee8eded50e4cb895ffac0147165
+      internalID: 693061934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_146
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 376
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebda8a0480e431c46959578a1c502b18
+      internalID: 1126744961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_147
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 376
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b7c401ba4e0ad489a6eedc1c3ea0a1
+      internalID: -1174189623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_148
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 376
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a854971cc861f4c98c6e8ed67dde96
+      internalID: 314319302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_149
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 376
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225fef32e06c4894a9cac3ff73ef2b91
+      internalID: 1537134225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297b7f1448da3094fa6f089e93e4e7c0
+      internalID: 316487644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_151
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 282
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f677c6ad1728f8a418b9507845029999
+      internalID: 584652923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 282
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64afb519a34ed59498d67a2790ddccf3
+      internalID: -1239106240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_153
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 282
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc98196a2e08b144b1494b143ac1f86
+      internalID: 337481567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_154
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 282
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491810bce617467468fffec3619f3098
+      internalID: -1868904446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_155
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 282
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec30c2027b87bcf4f9eb63e2a339a253
+      internalID: -629171312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_156
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 282
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197d69168c617a34f808c18732feab85
+      internalID: 1343052965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_157
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 282
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb4c961a246a9946ae292f541629173
+      internalID: -1883101344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_158
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 282
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d32fd16a0d7a84dae188e9ae7ad5b9
+      internalID: -595888320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_159
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 282
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c954f86e9e4ec5548b85e3f2b09783b8
+      internalID: -2091586130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c31ab26daf1eb4e82dc0ab17c9f9a8
+      internalID: 1667122754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_161
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 188
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c628db4334e0f4940bbd96a170a335ff
+      internalID: -1880650336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_162
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 188
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e09f7ade98946f468be2e42273fa2d5
+      internalID: -273477486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_163
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 188
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baf29fd8ebf2004f895a6a99f7e317d
+      internalID: 1444951191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_164
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 188
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49370a8bfc290144f947a7f20ffeb29e
+      internalID: 1787791200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_165
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 188
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a933fde2f205ce3499e03535f0e5c6de
+      internalID: 1313557199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_166
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 188
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e5593a20dddfc4eadcf2e8f77c6537
+      internalID: 1334694390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_167
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 188
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cf34ef61483ab47a3701e590561e41
+      internalID: 1784291764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_168
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 188
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84257f94356e1ee42840865a965a2fd1
+      internalID: -1383541648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_169
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 188
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab849b3eabb58c04998bb0b0acc43d6d
+      internalID: -815108169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dfb96ff7ef8f24a8e519982d0b226b
+      internalID: 1983230019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_171
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 94
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46fec5dde1dc354489aae6789437754
+      internalID: -386466013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_172
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 94
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec44055153602748aaf118dd6230c77
+      internalID: -372632960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_173
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 94
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4026e8b93da96434791e71b354497164
+      internalID: -1807541255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_174
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 94
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b086633dcc16ae64892bc158e217fb6d
+      internalID: -1441341859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_175
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 94
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6f5ef13aa7eec478d185cb553757fe
+      internalID: 1948457545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_176
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 94
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6917a867367926d4982b09a25f267d69
+      internalID: 448036965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_177
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 94
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358660dfd6366b54a83e72d37dfeb515
+      internalID: -319092113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_178
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 94
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bda5e730c9ba042b7a1f43c4f18bf7
+      internalID: -825639295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_179
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 94
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b877833f89e9cf4bb84322f573dcad6
+      internalID: -449672330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f41c2420bebdfa4a9618e0ff59dfe1b
+      internalID: -1083126119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AncientBossSheet_181
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 0
+        width: 201
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e7a18b8fa8e5f46aebf88323daff16
+      internalID: 1757404985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 13c47bda32f87364383ec2a9dcce3f5e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AncientBossSheet_0: 216832166
+      AncientBossSheet_1: -108434346
+      AncientBossSheet_10: 1443726258
+      AncientBossSheet_100: 250588209
+      AncientBossSheet_101: 1723476351
+      AncientBossSheet_102: 301380606
+      AncientBossSheet_103: 2059707607
+      AncientBossSheet_104: 1330377621
+      AncientBossSheet_105: -866272646
+      AncientBossSheet_106: 479152890
+      AncientBossSheet_107: -90917291
+      AncientBossSheet_108: -296930748
+      AncientBossSheet_109: 1337116702
+      AncientBossSheet_11: -1808490056
+      AncientBossSheet_110: -1243558371
+      AncientBossSheet_111: -492722523
+      AncientBossSheet_112: -1197956492
+      AncientBossSheet_113: -1435087798
+      AncientBossSheet_114: -893877232
+      AncientBossSheet_115: 460388745
+      AncientBossSheet_116: -1676657274
+      AncientBossSheet_117: -948241577
+      AncientBossSheet_118: 473512988
+      AncientBossSheet_119: 929987889
+      AncientBossSheet_12: 607843368
+      AncientBossSheet_120: -953474180
+      AncientBossSheet_121: 1368465243
+      AncientBossSheet_122: -246082738
+      AncientBossSheet_123: 648239839
+      AncientBossSheet_124: -225871494
+      AncientBossSheet_125: 571275507
+      AncientBossSheet_126: -113158157
+      AncientBossSheet_127: -1605130444
+      AncientBossSheet_128: 1222303435
+      AncientBossSheet_129: 1796832504
+      AncientBossSheet_13: 1779921343
+      AncientBossSheet_130: -1964513282
+      AncientBossSheet_131: -1435223830
+      AncientBossSheet_132: 889592729
+      AncientBossSheet_133: 281491963
+      AncientBossSheet_134: 1016018706
+      AncientBossSheet_135: 800931601
+      AncientBossSheet_136: 798623829
+      AncientBossSheet_137: 95861522
+      AncientBossSheet_138: -1818990347
+      AncientBossSheet_139: -548461938
+      AncientBossSheet_14: -290549933
+      AncientBossSheet_140: -747857467
+      AncientBossSheet_141: -682620207
+      AncientBossSheet_142: 1618692942
+      AncientBossSheet_143: 1972827985
+      AncientBossSheet_144: 1572092675
+      AncientBossSheet_145: 693061934
+      AncientBossSheet_146: 1126744961
+      AncientBossSheet_147: -1174189623
+      AncientBossSheet_148: 314319302
+      AncientBossSheet_149: 1537134225
+      AncientBossSheet_15: -1930180138
+      AncientBossSheet_150: 316487644
+      AncientBossSheet_151: 584652923
+      AncientBossSheet_152: -1239106240
+      AncientBossSheet_153: 337481567
+      AncientBossSheet_154: -1868904446
+      AncientBossSheet_155: -629171312
+      AncientBossSheet_156: 1343052965
+      AncientBossSheet_157: -1883101344
+      AncientBossSheet_158: -595888320
+      AncientBossSheet_159: -2091586130
+      AncientBossSheet_16: 314233855
+      AncientBossSheet_160: 1667122754
+      AncientBossSheet_161: -1880650336
+      AncientBossSheet_162: -273477486
+      AncientBossSheet_163: 1444951191
+      AncientBossSheet_164: 1787791200
+      AncientBossSheet_165: 1313557199
+      AncientBossSheet_166: 1334694390
+      AncientBossSheet_167: 1784291764
+      AncientBossSheet_168: -1383541648
+      AncientBossSheet_169: -815108169
+      AncientBossSheet_17: 1270332718
+      AncientBossSheet_170: 1983230019
+      AncientBossSheet_171: -386466013
+      AncientBossSheet_172: -372632960
+      AncientBossSheet_173: -1807541255
+      AncientBossSheet_174: -1441341859
+      AncientBossSheet_175: 1948457545
+      AncientBossSheet_176: 448036965
+      AncientBossSheet_177: -319092113
+      AncientBossSheet_178: -825639295
+      AncientBossSheet_179: -449672330
+      AncientBossSheet_18: -1386173724
+      AncientBossSheet_180: -1083126119
+      AncientBossSheet_181: 1757404985
+      AncientBossSheet_19: -516220083
+      AncientBossSheet_2: 1435213691
+      AncientBossSheet_20: 382685222
+      AncientBossSheet_21: -1546696200
+      AncientBossSheet_22: 226783838
+      AncientBossSheet_23: -263184806
+      AncientBossSheet_24: 1624374166
+      AncientBossSheet_25: -1648960162
+      AncientBossSheet_26: -1318974603
+      AncientBossSheet_27: -1843584980
+      AncientBossSheet_28: 743053416
+      AncientBossSheet_29: -2072491599
+      AncientBossSheet_3: 568508552
+      AncientBossSheet_30: 167510907
+      AncientBossSheet_31: 1321877901
+      AncientBossSheet_32: -1295361553
+      AncientBossSheet_33: 1639174226
+      AncientBossSheet_34: -171354512
+      AncientBossSheet_35: 1938970456
+      AncientBossSheet_36: -1980023117
+      AncientBossSheet_37: 398852339
+      AncientBossSheet_38: 596624427
+      AncientBossSheet_39: 39294254
+      AncientBossSheet_4: 1372551687
+      AncientBossSheet_40: -1529014411
+      AncientBossSheet_41: 268271016
+      AncientBossSheet_42: 1090071919
+      AncientBossSheet_43: -2098687133
+      AncientBossSheet_44: 985266223
+      AncientBossSheet_45: 697009008
+      AncientBossSheet_46: -137673013
+      AncientBossSheet_47: -1664612239
+      AncientBossSheet_48: 1200382822
+      AncientBossSheet_49: -743052374
+      AncientBossSheet_5: -1770146494
+      AncientBossSheet_50: 2051500883
+      AncientBossSheet_51: 1273569916
+      AncientBossSheet_52: -1978973628
+      AncientBossSheet_53: -275361478
+      AncientBossSheet_54: 531495193
+      AncientBossSheet_55: -1937718655
+      AncientBossSheet_56: -1714468568
+      AncientBossSheet_57: -1832689263
+      AncientBossSheet_58: -672250533
+      AncientBossSheet_59: 1855960346
+      AncientBossSheet_6: 1534247405
+      AncientBossSheet_60: 2045788000
+      AncientBossSheet_61: 415892996
+      AncientBossSheet_62: 269608991
+      AncientBossSheet_63: -2067287776
+      AncientBossSheet_64: -776935518
+      AncientBossSheet_65: -190409736
+      AncientBossSheet_66: -1989230052
+      AncientBossSheet_67: 882409454
+      AncientBossSheet_68: -1597953183
+      AncientBossSheet_69: 507953170
+      AncientBossSheet_7: -2017087312
+      AncientBossSheet_70: -423151197
+      AncientBossSheet_71: 25631782
+      AncientBossSheet_72: -508369549
+      AncientBossSheet_73: -710979602
+      AncientBossSheet_74: -1199341122
+      AncientBossSheet_75: 764648901
+      AncientBossSheet_76: -1911732126
+      AncientBossSheet_77: 288408773
+      AncientBossSheet_78: 810190966
+      AncientBossSheet_79: 1781124149
+      AncientBossSheet_8: 310992079
+      AncientBossSheet_80: 1748510284
+      AncientBossSheet_81: -1846487605
+      AncientBossSheet_82: -1498261026
+      AncientBossSheet_83: 1060205720
+      AncientBossSheet_84: 2085049157
+      AncientBossSheet_85: -1798086831
+      AncientBossSheet_86: 2090995810
+      AncientBossSheet_87: 1220628718
+      AncientBossSheet_88: -1927752076
+      AncientBossSheet_89: 469253080
+      AncientBossSheet_9: 874783039
+      AncientBossSheet_90: 1394640097
+      AncientBossSheet_91: 1202195456
+      AncientBossSheet_92: 955731369
+      AncientBossSheet_93: -1065955023
+      AncientBossSheet_94: -500996659
+      AncientBossSheet_95: 427109550
+      AncientBossSheet_96: -1155560643
+      AncientBossSheet_97: -1539990092
+      AncientBossSheet_98: -834594554
+      AncientBossSheet_99: -2005053324
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
