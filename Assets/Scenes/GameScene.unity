@@ -276,7 +276,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 42d2b6d4ca105144b95beb5ad1c8be17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _bossStateChannel: {fileID: 11400000, guid: 9153a22333286864b8d9611416d4e295, type: 2}
+  _bossStateChannel: {fileID: 11400000, guid: 7f7956eae0fa2b9489e6b1b9fd3d4e5b, type: 2}
   _delayTime: 1
 --- !u!61 &345253972
 BoxCollider2D:
@@ -1360,6 +1360,7 @@ Transform:
   m_Children:
   - {fileID: 681220566}
   - {fileID: 1263998370}
+  - {fileID: 1886348010}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1576800918
@@ -1382,6 +1383,7 @@ MonoBehaviour:
   - rid: 4434428322886189057
   - rid: 9172106286565163141
   - rid: 9172106286565163746
+  - rid: 4434428341585707505
   references:
     version: 2
     RefIds:
@@ -1408,7 +1410,7 @@ MonoBehaviour:
           m_Value0: 16866742855877401700
           m_Value1: 17813563061097135405
         Name: StateChannel
-        m_Value: {fileID: 11400000, guid: 9153a22333286864b8d9611416d4e295, type: 2}
+        m_Value: {fileID: 11400000, guid: 7f7956eae0fa2b9489e6b1b9fd3d4e5b, type: 2}
     - rid: 4434428322886189057
       type: {class: 'BlackboardVariable`1[[EntityAnimator, Assembly-CSharp]]', ns: Unity.Behavior, asm: Unity.Behavior}
       data:
@@ -1417,6 +1419,14 @@ MonoBehaviour:
           m_Value1: 5704323958411484871
         Name: EntityAnimator
         m_Value: {fileID: 681220570}
+    - rid: 4434428341585707505
+      type: {class: 'BlackboardVariable`1[[StoneBossStateChannel, Assembly-CSharp]]', ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 4814688912632459942
+          m_Value1: 10306310140593024559
+        Name: StoneBossStateChannel
+        m_Value: {fileID: 11400000, guid: ded2faf088f7d96479eeee871560b51a, type: 2}
     - rid: 9172106286565163141
       type: {class: 'BlackboardVariable`1[[UnityEngine.Transform, UnityEngine.CoreModule]]', ns: Unity.Behavior, asm: Unity.Behavior}
       data:
@@ -1518,7 +1528,92 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 4
+  m_Constraints: 6
+--- !u!1 &1886348009
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1886348010}
+  - component: {fileID: 1886348011}
+  m_Layer: 0
+  m_Name: Controller
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1886348010
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1886348009}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1576800917}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1886348011
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1886348009}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0038c16c34866b4f9e25c9c0dc0f7e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Graph: {fileID: 8773472386593727356, guid: f13fa9c88377bb748a4de261958b0060, type: 2}
+  m_BlackboardVariableOverridesList:
+  - rid: 4434428343431725108
+  - rid: 4434428343431725109
+  - rid: 4434428343431725110
+  - rid: 4434428343431725111
+  references:
+    version: 2
+    RefIds:
+    - rid: 4434428343431725108
+      type: {class: 'BlackboardVariable`1[[UnityEngine.GameObject, UnityEngine.CoreModule]]', ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 1
+          m_Value1: 0
+        Name: Self
+        m_Value: {fileID: 1576800916}
+    - rid: 4434428343431725109
+      type: {class: 'BlackboardVariable`1[[CharacterStateChannel, Assembly-CSharp]]', ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 11267929488303811610
+          m_Value1: 12972024500931080477
+        Name: BossStateChannel
+        m_Value: {fileID: 11400000, guid: 7f7956eae0fa2b9489e6b1b9fd3d4e5b, type: 2}
+    - rid: 4434428343431725110
+      type: {class: 'BlackboardVariable`1[[StoneBossStateChannel, Assembly-CSharp]]', ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 6772322019989047240
+          m_Value1: 16989133190566964459
+        Name: StoneBossStateChannel
+        m_Value: {fileID: 11400000, guid: ded2faf088f7d96479eeee871560b51a, type: 2}
+    - rid: 4434428343431725111
+      type: {class: 'BlackboardVariable`1[[UnityEngine.Transform, UnityEngine.CoreModule]]', ns: Unity.Behavior, asm: Unity.Behavior}
+      data:
+        GUID:
+          m_Value0: 914882023945074971
+          m_Value1: 16220486982355926213
+        Name: Target
+        m_Value: {fileID: 252069281873900307}
 --- !u!1 &1900636867
 GameObject:
   m_ObjectHideFlags: 0
