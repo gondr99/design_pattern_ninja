@@ -3,7 +3,7 @@ using UnityEngine;
 public class AnimatorCompo : MonoBehaviour
 {
     private Animator _animator;
-
+    public Animator Anim => _animator;
     protected virtual void Awake()
     {
         _animator = GetComponent<Animator>();
